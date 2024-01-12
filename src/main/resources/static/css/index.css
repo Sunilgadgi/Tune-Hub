@@ -1,0 +1,29 @@
+/* index.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: 	orchid;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: 	black;
+}
+
+a {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: red;
+    background-color: white;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: white;
+}
+
+/* Add additional styles as needed */

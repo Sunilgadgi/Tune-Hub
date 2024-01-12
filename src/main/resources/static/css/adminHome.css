@@ -1,0 +1,30 @@
+/* adminHome.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: 	dimgray	;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+a {
+    display: inline-block; /* Display as inline block to make smaller */
+    margin: 10px 0; /* Adjusted margin */
+    padding: 8px 12px; /* Adjusted padding */
+    text-decoration: none;
+    background-color: 	gold;
+    color: black;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    border-bottom: 2px solid #333; /* Bottom border */
+    font-size: 14px; /* Adjusted font size */
+}
+
+a:hover {
+    background-color: #45a049;
+}

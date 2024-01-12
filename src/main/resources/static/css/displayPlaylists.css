@@ -1,0 +1,36 @@
+/* Style for Display Playlist Page */
+body {
+    font-family: Arial, sans-serif;
+    background-color:silver;
+    margin: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color:mediumslateblue;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+audio {
+    margin-left: 10px;
+    vertical-align: middle;
+}
